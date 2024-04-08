@@ -1,0 +1,9 @@
+SELECT * FROM Student_Bio_Data;
+
+INSERT INTO Student_Bio_Data VALUES(1,'ALI','FAZAL',12,'5TH');
+INSERT INTO Student_Bio_Data VALUES(2,'OSAMA','MEHMOOD',11,'7TH');
+INSERT INTO Student_Bio_Data VALUES(3,'QAISER','HAMMAD',10,'4TH');
+INSERT INTO Student_Bio_Data VALUES(4,'AHMED','IMRAN',9,'3TH');
+
+
+
